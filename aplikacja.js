@@ -1,10 +1,10 @@
 const carsJS = require('./cars');
-const htmlJS = require('./htmlgenerator');
+const htmlJS = require('./htmlGenerator');
 
 const http = require('http');
 
 const carsJS = require('./cars');
-const htmlJS = require('./htmlgenerator');
+const htmlJS = require('./htmlGenerator');
 
 const PORT = 3000;
 
